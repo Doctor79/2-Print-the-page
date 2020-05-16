@@ -1,4 +1,3 @@
-// const printer = window.print()
 const btn = document.querySelector('button');
 btn.addEventListener('click', function() {
     window.print();
